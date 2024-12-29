@@ -1,7 +1,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Programming & Scripting**: Python, C++, JavaScript, TypeScript, VBA, R, Bash, C#, SQL, DAX, M  
+- **Programming & Scripting**: Python, R, C++, JavaScript, Bash, VBA, SQL, DAX, M  
 - **Machine Learning & AI**: TensorFlow, Keras, PyTorch, scikit-learn, scikit-multiflow, AutoML, Generative AI, Large Language Models (LLMs), Transformer Models, NLP, Computer Vision  
 - **Web Development**: Flask, HTML, CSS, Bootstrap  
 - **Cloud & Tools**: Google Cloud (Cloud Run, MemoryStore/Redis, PostgreSQL, etc), Docker, GitHub, Microsoft Visual Studio Code, Stripe  
