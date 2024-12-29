@@ -1,12 +1,12 @@
 
 ## 🛠️ Tech Stack
 
-- **Programming & Scripting**: Python, R, C++, JavaScript, Bash, VBA, SQL, DAX, M  
-- **Machine Learning & AI**: TensorFlow, Keras, PyTorch, scikit-learn, scikit-multiflow, AutoML, Generative AI, Large Language Models (LLMs), Transformer Models, NLP, Computer Vision  
+- **Programming & Scripting**: Python, SQL, Bash, R, C++, JavaScript  
+- **Machine Learning & AI**: TensorFlow, Keras, PyTorch, scikit-learn, scikit-multiflow, Generative AI, Large Language Models (LLMs), Transformer Models, NLP, Computer Vision  
 - **Web Development**: Flask, HTML, CSS, Bootstrap  
-- **Cloud & Tools**: Google Cloud (Cloud Run, MemoryStore/Redis, PostgreSQL, etc), Docker, GitHub, Microsoft Visual Studio Code, Stripe  
-- **Data Analysis & Visualization**: Pandas, NumPy, matplotlib, seaborn, Power BI  
-- **Databases**: PostgreSQL, MongoDB
+- **Cloud & Tools**: Google Cloud (Cloud Run, MemoryStore/Redis, PostgreSQL, etc), Docker, Microsoft Visual Studio Code, Stripe  
+- **Data Analysis & Visualization**: Pandas, NumPy, matplotlib, seaborn, Power BI, VBA, DAX, M  
+- **Databases**: PostgreSQL, MongoDB  
 
 ---
   
